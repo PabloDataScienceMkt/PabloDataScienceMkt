@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ## <div align="center">Olá 👋, Eu sou o Pablo! 
 Um Digital Analytics apaixonado por dados em transição para Data Science.</div>  
