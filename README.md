@@ -65,12 +65,5 @@ Um Digital Analytics apaixonado por dados em transição para Data Science.</div
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PabloDataScienceMkt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
